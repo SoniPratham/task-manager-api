@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+env/
+*.env
+
+# Flask
+instance/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
